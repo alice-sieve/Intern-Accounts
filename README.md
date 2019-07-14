@@ -55,3 +55,18 @@ Signin in these and post the usernames.
 |  https://joss.theoj.org/    | Hardik Kumar   | 0000-0002-1092-611X   | hardik.kumar2@gmail.com   |
 |  https://joss.theoj.org/    | Mayank Singh   | 0000-0003-4108-424X   |  mayank.singh081997@gmail.com   |
 |  https://joss.theoj.org/    | Niharika Vadlamudi   | 0000-0001-6596-428X   | niharika11988@gmail.com   |
+|  https://www.papercall.io/    | Kevin Chittilapilly   |  kevin  | Content   |
+|  https://www.papercall.io/    | Ashita Bansal   |  Ashita Bansal  | itsashitabansal@gmail.com   |
+|  https://www.papercall.io/    | Hardik Kumar   |  hardikkumar  |  hardik.kumar2@gmail.com     |
+|  https://www.papercall.io/    | Mayank Singh   |  code-monk08  |  mayank.singh081997@gmail.com    |
+|  https://www.papercall.io/    | Aman Shah   |  aman-shah  | aman.shah008@gmail.com   |
+|  https://www.papercall.io/    | Niharika Vadlamudi   |  NV  | niharika11988@gmail.com   |
+|  https://www.papercall.io/    | Sayantan Das    |  ucalyptus  |  santaclaus30011998@gmail.com   |
+|  https://www.nature.com/hgv/
+https://www.nature.com/natecolevol/  | Content   |  amanv1999@gmail.com  | amanv1999@gmail.com   |
+|  https://www.nature.com/hgv/
+https://www.nature.com/natecolevol/  | Niharika Vadlamudi   |  niharika11988@gmail.com  | niharika11988@gmail.com   |
+|  https://www.nature.com/hgv/
+https://www.nature.com/natecolevol/  | Mayank Singh   |  mayank.singh081997@gmail.com  | mayank.singh081997@gmail.com   |
+|  https://www.nature.com/hgv/
+https://www.nature.com/natecolevol/  | Sayantan Das   |  sayantandas30011998@gmail.com  | santaclaus30011998@gmail.com   |
