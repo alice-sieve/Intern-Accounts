@@ -10,14 +10,17 @@ Signin in these and post the usernames.
 | https://lwn.net/Login/newaccount       | Ashita bansal  | ashitabansal  | itsashitabansal@gmail.com  |
 | https://lwn.net/Login/newaccount       | Niharika Vadlamudi  | neeha789  | niharika11988@gmail.com  |
 | https://lwn.net/Login/newaccount       | Mamta Shukla  | Mamta  | Content  |
+| https://lwn.net/Login/newaccount       | Mayank Chauhan  | mayankchauhan  | mayankchauhan971@gmail.com  |
 | https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAAI2019%2F  | Aman Verma  | amanv1999@gmail.com  | amanv1999@gmail.com  |
 | https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAAI2019%2F  | Mayank Singh  | mayank.singh081997@gmail.com  | mayank.singh081997@gmail.com  |
 | https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAAI2019%2F  | Ashita bansal  | itsashitabansal@gmail.com  | itsashitabansal@gmail.com  |
 | https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAAI2019%2F  | Aman Shah  | aman.shah008@gmail.com  | aman.shah008@gmail.com  |
 | https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAAI2019%2F  | Sayantan Das  | sayantandas30011998@gmail.com  | santaclaus30011998@gmail.com  |
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAAI2019%2F  | Mayank Chauhan  | mayankchauhan971@gmail.com  | mayankchauhan971@gmail.com
 | https://opensource.com/user/register   | Ashita bansal   | ashita bansal   | itsashitabansal@gmail.com   |
 | https://opensource.com/user/register   | Mayank Singh    | code-monk08   | mayank.singh081997@gmail.com   |
 | https://opensource.com/user/register   | Niharika Vadlamudi   | Niharika Vadlamudi   | niharika11988@gmail.com   |
+| https://opensource.com/user/register   | Mayank Chauhan   | Mayank chauhan   | mayankchauhan971@gmail.com   |
 | https://www.authorea.com/signup   | Hardik Kumar   | Hardik Kumar   | hardik.kumar2@gmail.com   |
 | https://www.authorea.com/signup   | Mayank Singh   | Mayank Singh   | mayank.singh081997@gmail.com   |
 | https://www.authorea.com/signup   | Bhaskar Talla   | Bhaskar Talla   | bb7talla@gmail.com   |
@@ -25,6 +28,7 @@ Signin in these and post the usernames.
 | https://www.authorea.com/signup   | Niharika Vadlmudi   | Niharika Vadlmudi   | niharika11988@gmail.com   |
 | https://www.authorea.com/signup   | Mamta Shukla   | Mamta Shukla   | Content   |
 | https://www.authorea.com/signup   | Kevin Varghese   | Kevin Varghese   | ckevinvarghese1998@gmail.com   |
+| https://www.authorea.com/signup   | Mayank Chauhan   | mayankchauhan   | mayankchauhan971@gmail.com   |
 | https://mc.manuscriptcentral.com/jems   | Charu Sinha   | charu2mail@gmail.com   | charu2mail@gmail.com   |
 | https://mc.manuscriptcentral.com/jems   | Aman Shah   | aman.shah008@gmail.com   | aman.shah008@gmail.com   |
 | https://ees.elsevier.com/jet/default.asp?pg=login.asp  |  Charu Sinha   | charu2mail@gmail.com   | charu2mail@gmail.com   |
@@ -49,6 +53,7 @@ Signin in these and post the usernames.
 | https://arxiv.org/user/login   | Sayantan Das   | ucalyptus   | santaclaus30011998@gmail.com   |
 | https://arxiv.org/user/login   | Mayank Singh   | code-monk08   |  mayank.singh081997@gmail.com   |
 | https://arxiv.org/user/login   | Kevin Chittilapilly    | kevin#1998   | Content   |
+| https://arxiv.org/user/login   | Mayank Chauhan    | mayankchauhan   | mayankchauhan971@gmail.com   |
 |  https://joss.theoj.org/    | Content   | 0000-0002-0087-5347   | Content   |
 |  https://joss.theoj.org/    | Kevin Chittilapilly   | 0000-0001-6268-0601   | Content   |
 |  https://joss.theoj.org/    | Ashita Bansal   | 0000-0001-9649-1809   | itsashitabansal@gmail.com   |
@@ -62,6 +67,7 @@ Signin in these and post the usernames.
 |  https://www.papercall.io/    | Aman Shah   |  aman-shah  | aman.shah008@gmail.com   |
 |  https://www.papercall.io/    | Niharika Vadlamudi   |  NV  | niharika11988@gmail.com   |
 |  https://www.papercall.io/    | Sayantan Das    |  ucalyptus  |  santaclaus30011998@gmail.com   |
+|  https://www.papercall.io/    | Mayank Chauhan  |  Mayank  | mayankchauhan971@gmail.com   |
 |  https://www.nature.com/hgv/
 https://www.nature.com/natecolevol/  | Content   |  amanv1999@gmail.com  | amanv1999@gmail.com   |
 |  https://www.nature.com/hgv/
