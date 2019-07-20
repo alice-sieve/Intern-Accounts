@@ -76,3 +76,4 @@ https://www.nature.com/natecolevol/  | Niharika Vadlamudi   |  niharika11988@gma
 https://www.nature.com/natecolevol/  | Mayank Singh   |  mayank.singh081997@gmail.com  | mayank.singh081997@gmail.com   |
 |  https://www.nature.com/hgv/
 https://www.nature.com/natecolevol/  | Sayantan Das   |  sayantandas30011998@gmail.com  | santaclaus30011998@gmail.com   |
+| https://lwn.net/Login/newaccount | Amit Sharma | amit-sharma-9 | amit128.149@gmail.com
